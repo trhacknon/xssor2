@@ -12,7 +12,7 @@ It contains three major modules: Encode/Decode, Codz, Probe.
 
 Python 3 with Django 3.0.* or Python 2 with Django 1.11.*
 
-* git clone https://github.com/evilcos/xssor2 or download directly
+* git clone https://github.com/trhacknon/xssor2 or download directly
 * cd xssor2
 * modify xssor/payload/probe.js
 ```javascript
